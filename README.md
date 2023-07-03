@@ -1,1 +1,4 @@
 # Python_project
+Diwali, also known as the Festival of Lights, is a major Hindu festival celebrated in India and other parts of the world. During Diwali, many businesses and online retailers offer special discounts and promotions to attract customers. Python, being a popular programming language for data analysis and web development, is often used to analyze and visualize sales data during Diwali.
+Use Python's data analysis libraries, such as Pandas and NumPy, to explore and analyze the Diwali sales data. You can calculate metrics such as total revenue, average sales, top-selling products, and customer segmentation based on demographics.
+ Utilize Python's data visualization libraries, such as Matplotlib or Seaborn, to create visual representations of the Diwali sales data. This could include bar charts, pie charts, line plots, or heatmaps to present sales trends, product distribution, or customer behavior.
